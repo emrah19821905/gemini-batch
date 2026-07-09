@@ -1,0 +1,2 @@
+# gemini-batch
+Otamatik resim
