@@ -1,0 +1,11 @@
+{
+  "name": "gemini-batch-image",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.21.0"
+  }
+}
